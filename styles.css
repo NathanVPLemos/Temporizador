@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+body{
+    background-image: url(IMG/código-binario.jpg);
+    color: white;
+}
+
+.cronometro{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+}
+
+p{
+    color:green;
+    background: rgba(0, 0, 0, 0.744);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5px;
+}
+
+h1{
+    color:green;
+    background: rgba(0, 0, 0, 0.744);
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5px;
+}
+
+button{
+    color:rgb(4, 189, 4);
+    background: rgba(0, 0, 0, 0.827);
+    height: 50px;
+    margin-top: 20px;
+    
+}
+
+span{
+    font-family: 'Orbitron', sans-serif;
+    color: green;
+    background: black;
+}
